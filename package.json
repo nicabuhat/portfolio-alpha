@@ -1,30 +1,14 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
-    "version": "4.1.1",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "title": "nicabuhat porfolio",
+    "name": "portfoli-alpha",
+    "description": "My first portfolio website",
     "keywords": [
         "css",
         "sass",
         "html",
-        "responsive",
-        "theme",
-        "template"
+        "responsive"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
-    },
     "dependencies": {
         "bootstrap": "4.1.1",
         "font-awesome": "4.7.0",
