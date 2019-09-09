@@ -3,8 +3,8 @@
     "name": "portfoli-alpha",
     "description": "My first portfolio website",
     "keywords": [
-        "css",
         "sass",
+        "css",
         "html",
         "responsive"
     ],
